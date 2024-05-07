@@ -1,0 +1,50 @@
+{
+    "workbench.colorTheme": "Gruvbox Dark Hard",
+    "editor.fontFamily": "JetBrainsMono Nerd Font",
+    "editor.fontLigatures": true,
+    "editor.fontWeight": "bold",
+    "editor.fontSize": 14.9,
+    "workbench.iconTheme": "material-icon-theme",
+    "git.enableSmartCommit": true,
+    "editor.inlineSuggest.enabled": false,
+    "git.confirmSync": false,
+    "[json]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.formatOnSave": true,
+    "editor.wordWrap": "on",
+    "editor.minimap.enabled": false,
+    "window.title": "${activeEditorMedium}${separator}${rootName}",
+    "files.exclude": {
+      "**/.git": true,
+      "**/.svn": true,
+      "**/.hg": true,
+      "**/CVS": true,
+      "**/.DS_Store": true,
+      "**/Thumbs.db": true,
+      "**/node_modules": true
+    },
+    "search.exclude": {
+      "**/node_modules": true,
+      "**/bower_components": true,
+      "**/*.code-search": true,
+      "**/public": true
+    },
+    "[javascript]": {
+      "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "git.autofetch": true,
+    "window.menuBarVisibility": "classic",
+    "editor.stickyScroll.enabled": false,
+    "[html]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "window.zoomLevel": 0.5,
+    "[javascriptreact]": {
+      "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "go.toolsManagement.autoUpdate": true,
+    "terminal.integrated.fontSize": 14,
+    "workbench.sideBar.location": "right"
+  }
+  
